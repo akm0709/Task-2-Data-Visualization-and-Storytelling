@@ -14,4 +14,8 @@ Create compelling sales data visualizations using Power BI.
 4. Correlation: High sales don’t always mean high profit (e.g., Furniture).  
 
 ## Screenshots: 
+- sum_of_sales_by_category
+- sum_of_sales_by_order_date
+- sum_of_profit_by_region
+- sum_of_sales_and_sum_of_profit_by_category
 
